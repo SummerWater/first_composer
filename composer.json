@@ -1,0 +1,17 @@
+{
+  "name": "summerWater/hello-world",
+  "description": "My hello composer!",
+  "homepage": "https://github.com/SummerWater/first_composer",
+  "license": "Unlicense",
+  "keywords": [
+    "hello"
+  ],
+  "authors": [
+    {
+      "name": "summerWater"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  }
+}
