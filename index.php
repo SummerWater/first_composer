@@ -1,2 +1,4 @@
 <?php
-phpinfo();
+require 'Infos.php';
+$info = new Infos();
+$info->hello();
