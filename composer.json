@@ -2,10 +2,11 @@
   "name": "summerwater/hello-world",
   "description": "My hello composer!",
   "homepage": "https://github.com/SummerWater/first_composer",
-  "license": "Unlicense",
+  "license": "MIT",
   "keywords": [
     "hello"
   ],
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "summerWater"
