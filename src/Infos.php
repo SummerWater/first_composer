@@ -6,6 +6,8 @@
  * Time: 9:20
  */
 
+namespace summerwater\speak;
+
 class Infos
 {
     public function show()
